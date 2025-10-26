@@ -4,9 +4,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/uzzambutt?label=Followers&style=social)](https://github.com/uzzambutt)
 [![GitHub stars](https://img.shields.io/github/stars/uzzambutt?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/uzzambutt?tab=repositories)
-[![Visits Badge](https://badges.pufler.dev/visits/uzzambutt/uzzambutt)](https://github.com/uzzambutt)
+(https://github.com/uzzambutt)
 [![Profile Views](https://komarev.com/ghpvc/?username=uzzambutt&label=Profile%20views&color=blueviolet&style=flat)](https://github.com/uzzambutt)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=uzzambutt&show_icons=true&count_private=true&line_height=24&theme=radical)](https://github.com/uzzambutt)
+[![GitHub status](https://github-readme-stats.vercel.app/api?username=uzzambutt&show_icons=true&count_private=true&line_height=24&theme=radical)](https://github.com/uzzambutt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzzambutt&layout=compact&theme=radical)](https://github.com/uzzambutt)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uzzambutt&theme=radical)](https://github.com/uzzambutt)
 
@@ -38,6 +38,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FCC72B?style=for-the-badge&logo=hardhat&logoColor=black)
+![NeuralForecast](https://img.shields.io/badge/NeuralForecast-FF6F00?style=for-the-badge&logo=neural&logoColor=white)
 
 **Databases & Tools:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -45,6 +46,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![KaliLinux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
