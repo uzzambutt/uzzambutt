@@ -64,7 +64,7 @@ Firmware   C · C++ · ESP-IDF · FreeRTOS · STM32 · PlatformIO
 RF         GNU Radio · SDR · LoRa · GPS · MQTT
 Analysis   Python · NumPy · Matplotlib
 Tools      Git · CMake · Linux · GitHub Actions
-Hardware      FPGA · RaspberryPI· STM32 · ESP32
+Hardware   FPGA · RaspberryPI· STM32 · ESP32
 ```
 
 ---
